@@ -1,0 +1,6 @@
+Objetivos:
+1.	Velocidad
+2.	Diseño sencillo
+3.	Gran soporte para desarrollo no lineal
+
+Creador de Git:  (Creador de Linux)
