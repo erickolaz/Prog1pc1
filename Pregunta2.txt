@@ -3,4 +3,4 @@ Objetivos:
 2.	Diseño sencillo
 3.	Gran soporte para desarrollo no lineal
 
-Creador de Git:  (Creador de Linux)
+Creador de Git: Linus Benedic (Creador de Linux)
